@@ -1,0 +1,97 @@
+package com.udemy;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        printDatOfTheWeek(-1);
+        printDatOfTheWeek(1);
+        printDatOfTheWeek(2);
+        printDatOfTheWeek(3);
+        printDatOfTheWeek(4);
+        printDatOfTheWeek(5);
+        printDatOfTheWeek(6);
+        printDatOfTheWeek(7);
+        printDatOfTheWeek(8);
+
+    }
+
+    public static void printDatOfTheWeek(int day) {
+
+//        switch(day) {
+//
+//            case 1:
+//                System.out.println("Sunday");
+//                break;
+//
+//            case 2:
+//                System.out.println("Monday");
+//                break;
+//
+//            case 3:
+//                System.out.println("Tuesday");
+//                break;
+//
+//            case 4:
+//                System.out.println("Wednesday");
+//                break;
+//
+//            case 5:
+//                System.out.println("Thursday");
+//                break;
+//
+//            case 6:
+//                System.out.println("Friday");
+//                break;
+//
+//            case 7:
+//                System.out.println("Saturday");
+//                break;
+//
+//            default:
+//                System.out.println("Invalid day");
+//                break;
+//
+//        }
+
+        if(day == 1) {
+
+            System.out.println("Sunday");
+
+        }else if(day == 2) {
+
+            System.out.println("Monday");
+
+        }else if(day == 3) {
+
+            System.out.println("Tuesday");
+
+        }else if(day == 4) {
+
+            System.out.println("Wednesday");
+
+        }else if(day == 5) {
+
+            System.out.println("Thursday");
+
+        }else if(day == 6) {
+
+            System.out.println("Friday");
+
+        }else if(day == 7) {
+
+            System.out.println("Sunday");
+
+        }
+
+        else {
+
+            System.out.println("Invalid day");
+
+        }
+
+    }
+
+
+
+}
