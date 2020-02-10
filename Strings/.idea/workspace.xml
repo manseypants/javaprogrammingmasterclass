@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81c8a58a-0378-406e-bfc8-16728f5c5e3d" name="Default Changelist" comment="" />
+    <list default="true" id="81c8a58a-0378-406e-bfc8-16728f5c5e3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Strings/com/udemy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/udemy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/udemy/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -14,60 +21,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XaxWGirlf4j6xNj33UOQGf498C" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -80,6 +38,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -93,5 +56,23 @@
       <updated>1581298037056</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="279" key="GridCell.Tab.0.bottom" timestamp="1581298906911">
+      <screen x="-627" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="279" key="GridCell.Tab.0.bottom/0.23.1280.745/-627.-1057.2560.1057@-627.-1057.2560.1057" timestamp="1581298906911" />
+    <state width="1238" height="279" key="GridCell.Tab.0.center" timestamp="1581298906907">
+      <screen x="-627" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="279" key="GridCell.Tab.0.center/0.23.1280.745/-627.-1057.2560.1057@-627.-1057.2560.1057" timestamp="1581298906907" />
+    <state width="1238" height="279" key="GridCell.Tab.0.left" timestamp="1581298906905">
+      <screen x="-627" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="279" key="GridCell.Tab.0.left/0.23.1280.745/-627.-1057.2560.1057@-627.-1057.2560.1057" timestamp="1581298906905" />
+    <state width="1238" height="279" key="GridCell.Tab.0.right" timestamp="1581298906910">
+      <screen x="-627" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="279" key="GridCell.Tab.0.right/0.23.1280.745/-627.-1057.2560.1057@-627.-1057.2560.1057" timestamp="1581298906910" />
   </component>
 </project>
