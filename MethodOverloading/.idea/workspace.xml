@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0412d0c0-967a-4e6d-b6c1-5c81d5422632" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZB9GQdYsuDKswZ5E0JH29hPEPe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.javaprogrammingmasterclass.Main" />
+      <module name="MethodOverloading" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0412d0c0-967a-4e6d-b6c1-5c81d5422632" name="Default Changelist" comment="" />
+      <created>1584301523718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584301523718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586723659871">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="328" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777/-627.-1057.2560.1032@0.23.1280.777" timestamp="1586723659871" />
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom" timestamp="1587352344248">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.752/-627.-1057.2560.1057@0.23.1280.752" timestamp="1587342471862" />
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.777/-627.-1057.2560.1032@0.23.1280.777" timestamp="1587352344248" />
+    <state width="1238" height="189" key="GridCell.Tab.0.center" timestamp="1587352344248">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.752/-627.-1057.2560.1057@0.23.1280.752" timestamp="1587342471851" />
+    <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.777/-627.-1057.2560.1032@0.23.1280.777" timestamp="1587352344248" />
+    <state width="1238" height="189" key="GridCell.Tab.0.left" timestamp="1587352344247">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.752/-627.-1057.2560.1057@0.23.1280.752" timestamp="1587342471850" />
+    <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.777/-627.-1057.2560.1032@0.23.1280.777" timestamp="1587352344247" />
+    <state width="1238" height="189" key="GridCell.Tab.0.right" timestamp="1587352344248">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.752/-627.-1057.2560.1057@0.23.1280.752" timestamp="1587342471861" />
+    <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.777/-627.-1057.2560.1032@0.23.1280.777" timestamp="1587352344248" />
+    <state x="34" y="23" key="new project wizard" timestamp="1587333077422">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state x="34" y="23" key="new project wizard/0.23.1280.752/-627.-1057.2560.1057@0.23.1280.752" timestamp="1587333077422" />
+  </component>
+</project>
